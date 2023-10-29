@@ -2,7 +2,7 @@
 
 let a = prompt("whats your age?") 
 a = Number.parseInt(a) // converting string to number
-if (a>0){  // check if a is greater than
+if (a>0){  // check if a is greater than 0 if true displayy alert messafe
     alert("valid age")
 }else{
     alert("Invalid age")
