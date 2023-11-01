@@ -1,4 +1,4 @@
-/** prrogram to demonstrate defining functions in js */
+/** program to demonstrate defining functions in jas */
 
 function add(x, y) {
     return console.log("Sum is " + (x+y))
