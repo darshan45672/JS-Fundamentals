@@ -1,3 +1,5 @@
+/** prrogram to demonstrate defining functions in js */
+
 function add(x, y) {
     return console.log("Sum is " + (x+y))
 }
